@@ -1,1 +1,2 @@
-alx low level programming :learning more about the C program and i bet you i aint seeing shit
+This repository contains ALX projects in C 
+which covers most aspects of the C language and it's use
